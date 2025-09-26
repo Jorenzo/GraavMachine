@@ -15,7 +15,8 @@ Graav Machine is a simple but effective Discord bot that checks if a Minecraft s
     "Token": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
     "ChannelID": "00000000000000000"
   }
-}```
+}
+```
 - Replace the settings to your needs.
 - Happy botting!
 
