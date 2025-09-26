@@ -5,7 +5,8 @@ Graav Machine is a simple but effective Discord bot that checks if a Minecraft s
 ## Usage
 - Download and compile this for your desired platform. There is a Build.bat file to create a linux build.
 - In the place you want to host, create an appsettings.json file and add the following:
-```{
+```json
+{
   "MinecraftServer": {
     "Ip": "127.0.0.1",
     "Port": 25565
